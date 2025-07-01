@@ -1,0 +1,22 @@
+h2{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    padding: 3px;
+}
+
+.eduDetails{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.TechSkills{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.softSkillList{
+    list-style-type: square;
+}
